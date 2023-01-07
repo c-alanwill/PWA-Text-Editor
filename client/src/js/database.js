@@ -25,7 +25,7 @@ export const putDb = async (content) =>{
   // is line 26 todo correct?
   const request = store.put({ id: id, todo: content });
   const result = await request;
-  console.log('🚀 - data saved to the database', result);
+  console.log('data saved to the database', result);
 };
 
 // TODO: Add logic for a method that gets all the content from the database
