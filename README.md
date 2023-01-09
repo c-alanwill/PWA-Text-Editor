@@ -54,7 +54,7 @@ The application can be installed as a Progressive Web Application.
 
 The code for this project can be found on GitHub at: https://github.com/c-alanwill/PWA-Text-Editor
 
-The application is deployed to Heroku at: 
+The application is deployed to Heroku at: https://dashboard.heroku.com/apps/pwa-text-editor-cw
 
 
 ## Mock-Up
